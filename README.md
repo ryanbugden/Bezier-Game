@@ -2,6 +2,8 @@
 
 The Bézier Game, and educational materials about curves
 
+<img src="./_images/title_image.png">
+
 ## How to set up your own game:
 1. Save/clone this whole repository.
 2. Open `generate_bezier_game.py` in [DrawBot](https://www.drawbot.com/index.html)
