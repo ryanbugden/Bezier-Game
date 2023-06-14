@@ -1,6 +1,6 @@
 # The Bézier Game
 
-The Bézier Game, and educational materials about curves
+This repository hosts the Bézier Game, and educational materials about curves. I'm putting this on GitHub so that educators can have access to this game and play with their students. If you’d still like to fly me to your city to conduct the game, feel free to contact me :)
 
 <img src="./_images/title_image.png">
 
@@ -21,7 +21,7 @@ The Bézier Game, and educational materials about curves
 6. Run the script, and check the `_output` folder for PDFs.
 
 ## How to play:
-1. Project upon a blackboard or whiteboard. Choose the corresponding PDF.
+1. Project upon a blackboard or whiteboard. Choose the corresponding PDF from the two that were generated.
 2. Line up two teams, single file, on either side of the board.
 3. Summon a contestant from each team. Advance the slide.
 4. The first person who’s confident they’ve finished should shout “Done!” or the keyword of your choice, at which point both players put down their plotting instruments.
@@ -35,6 +35,20 @@ The Bézier Game, and educational materials about curves
 >> *Suggestion: Roughly the amount of total contestants.*
 
 ## Any questions?
-Feel free to contact me at hi@ryanbugden.com
+Feel free to contact me at hi@ryanbugden.com. 
 
-### — Ryan Bugden
+## Other resources:
+* [Drawing for Interpolation](https://superpolator.com/drawing.html) — Erik van Blokland 
+* [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw) — Freya Holmér
+
+## Version history:
+```
+2016.10  First instance of idea, manually laid out *sweat-smile-emoji*
+2017.06  Debut in TypeLab, Typographics.
+2018.11  Introduce automation (DrawBot).
+2019.01  Debut in KABK Open Day.
+2022.11  Refine, add scoreboard & instructions.
+2023.06  Initiate GitHub repo. Develop Bézier math demo.
+```
+
+#### © Ryan Bugden
