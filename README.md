@@ -39,12 +39,14 @@ Feel free to contact me at hi@ryanbugden.com.
 
 ## Other resources:
 * [Drawing for Interpolation](https://superpolator.com/drawing.html) — Erik van Blokland 
+* [Overlapper](https://github.com/ryanbugden/Overlapper) RoboFont Extension — Ryan Bugden
 * [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw) — Freya Holmér
 
 ## Version history:
 ```
 2016.10  First instance of idea, manually laid out *sweat-smile-emoji*
 2017.06  Debut in TypeLab, Typographics.
+2018.06  TypeLab
 2018.11  Introduce automation (DrawBot).
 2019.01  Debut in KABK Open Day.
 2022.11  Refine, add scoreboard & instructions.
