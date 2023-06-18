@@ -34,13 +34,22 @@ This repository hosts the Bézier Game, and educational materials about curves. 
 
 >> *Suggestion: Roughly the amount of total contestants.*
 
-## Any questions?
-Feel free to contact me at hi@ryanbugden.com. 
+## Resources included:
+* **Lecture**: The slides I put together to prime the players with the basics of Béziers before starting the game. This primarily features important tips for drawing with Béziers.
+<img src="./_images/lecture.png">
+* **Math demo**: An interactive DrawBot demo in which you can see the inner workings of several orders of Bézier (De Casteljau) math, from linear to quadratic to cubic, and beyond.
+<img src="./_images/bezier_math_demo.gif">
 
 ## Other resources:
 * [Drawing for Interpolation](https://superpolator.com/drawing.html) — Erik van Blokland 
 * [Overlapper](https://github.com/ryanbugden/Overlapper) RoboFont Extension — Ryan Bugden
+* [Drawing Vectors for Type & Lettering](https://ohnotype.co/blog/drawing-vectors) — Ohno Type Co.
 * [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw) — Freya Holmér
+
+## Any questions?
+Feel free to contact me at hi@ryanbugden.com. 
+
+
 
 ## Version history:
 ```
@@ -50,7 +59,7 @@ Feel free to contact me at hi@ryanbugden.com.
 2018.11  Introduce automation (DrawBot).
 2019.01  Debut in KABK Open Day.
 2022.11  Refine, add scoreboard & instructions.
-2023.06  Initiate GitHub repo. Develop Bézier math demo.
+2023.06  Initiate GitHub repo. Develop Bézier math demo. TypeLab!
 ```
 
 #### © Ryan Bugden
