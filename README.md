@@ -43,7 +43,7 @@ This repository hosts the Bézier Game, and educational materials about curves. 
 
 ## Other resources included:
 * **Lecture**: The slides I put together to prime the players with the basics of Béziers before starting the game. This primarily features important tips for drawing with Béziers.
-<img src="./_images/lecture.png">
+<img src="./_images/lecture.gif">
 
 * **Math demo**: An interactive DrawBot demo in which you can see the inner workings of several orders of Bézier (De Casteljau) math, from linear to quadratic to cubic, and beyond.
 <img src="./_images/bezier_math_demo.gif">
