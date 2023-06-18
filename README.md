@@ -21,9 +21,11 @@ This repository hosts the Bézier Game, and educational materials about curves. 
 
 6. Run the script, and check the `_output` folder for PDFs.
 
+<div>
 <img src="./_images/typelab-2018.gif" height=400>
 <img src="./_images/kabk-2019.jpeg" height=400>
 <img src="./_images/kabk_undergrad-2018.gif" height=400>
+</div>
 
 ## How to play:
 1. Project upon a blackboard or whiteboard. Choose the corresponding PDF from the two that were generated.
