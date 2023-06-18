@@ -5,6 +5,7 @@ This repository hosts the Bézier Game, and educational materials about curves. 
 <img src="./_images/title_image.png">
 
 ## How to set up your own game:
+
 1. Save/clone this whole repository.
 2. Open `generate_bezier_game.py` in [DrawBot](https://www.drawbot.com/index.html)
 3. Set up the title page; change `school_name` and `event_name`
@@ -20,6 +21,10 @@ This repository hosts the Bézier Game, and educational materials about curves. 
 
 6. Run the script, and check the `_output` folder for PDFs.
 
+<img src="./_images/typelab-2018.gif" height=400>
+<img src="./_images/kabk-2019.jpeg" height=400>
+<img src="./_images/kabk_undergrad-2018.gif" height=400>
+
 ## How to play:
 1. Project upon a blackboard or whiteboard. Choose the corresponding PDF from the two that were generated.
 2. Line up two teams, single file, on either side of the board.
@@ -34,13 +39,14 @@ This repository hosts the Bézier Game, and educational materials about curves. 
 
 >> *Suggestion: Roughly the amount of total contestants.*
 
-## Resources included:
+## Other resources included:
 * **Lecture**: The slides I put together to prime the players with the basics of Béziers before starting the game. This primarily features important tips for drawing with Béziers.
 <img src="./_images/lecture.png">
+
 * **Math demo**: An interactive DrawBot demo in which you can see the inner workings of several orders of Bézier (De Casteljau) math, from linear to quadratic to cubic, and beyond.
 <img src="./_images/bezier_math_demo.gif">
 
-## Other resources:
+## External resources:
 * [Drawing for Interpolation](https://superpolator.com/drawing.html) — Erik van Blokland 
 * [Overlapper](https://github.com/ryanbugden/Overlapper) RoboFont Extension — Ryan Bugden
 * [Drawing Vectors for Type & Lettering](https://ohnotype.co/blog/drawing-vectors) — Ohno Type Co.
