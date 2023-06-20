@@ -50,9 +50,11 @@ This repository hosts the Bézier Game, and educational materials about curves. 
 
 ## External resources:
 * [Drawing for Interpolation](https://superpolator.com/drawing.html) — Erik van Blokland 
-* [Overlapper](https://github.com/ryanbugden/Overlapper) RoboFont Extension — Ryan Bugden
 * [Drawing Vectors for Type & Lettering](https://ohnotype.co/blog/drawing-vectors) — Ohno Type Co.
+* [Designing Multiple Master Typefaces](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5091.Design_MM_Fonts.pdf) — Adobe
+* [Overlapper](https://github.com/ryanbugden/Overlapper) RoboFont Extension — Ryan Bugden
 * [The Beauty of Bézier Curves](https://www.youtube.com/watch?v=aVwxzDHniEw) — Freya Holmér
+
 
 ## Any questions?
 Feel free to contact me at hi@ryanbugden.com. 
